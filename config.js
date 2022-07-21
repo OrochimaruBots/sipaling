@@ -25,7 +25,7 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
@@ -41,24 +41,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6289510497533'] //ur owner number
-global.ownername = "IRFANFF9"
-global.ytname = "YT: IRFANBOT" //ur yt chanel name
-global.socialm = "GitHub: Irfanff9" //ur github or insta name
+global.owner = ['6288804947282'] //ur owner number
+global.ownername = "Yamato"
+global.ytname = "YT: YAMATOBOTZ" //ur yt chanel name
+global.socialm = "GitHub: OrochimaruBotz" //ur github or insta name
 global.location = "Indonesia, Probolinggo, Jabung Candi" //ur location
 
 //bot bombdy
-global.botname = "IrfanBot-MD" //ur bot name
+global.botname = "YamatoBotz" //ur bot name
 global.websitex = "https://youtube.com/channel/UCB2FsP3zAMlcfRz7iVs2D6A" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "6289510497533\n\n\n\n\n\n\n"
-global.author = "IrfanBot-MD by IRFANFF9"
+global.packname = "6288804947282\n\n\n\n\n\n\n"
+global.author = "YamatoBotz by Yamato"
 global.themeemoji = "🗿"
 global.reactmoji = "🗿"
-global.ownernummenu = ['6289510497533'] //ur owner number in menu and all
+global.ownernummenu = ['6288804947282'] //ur owner number in menu and all
 global.ownertag = ['-']
-global.watermark = "IrfanBot-MD" //ur watermark
-global.botscript = "https://github.com/irfanff99/IrfanBot-MD"
+global.watermark = "YamatoBotz" //ur watermark
+global.botscript = "https://github.com/OrochimaruBotz/sipaling"
 global.linkz1 = "https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8"
 global.linkz2 = "https://chat.whatsapp.com/JZObD0euUnF2UknDp1UDn8"
 
